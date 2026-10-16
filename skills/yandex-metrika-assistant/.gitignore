@@ -1,0 +1,10 @@
+.env
+.env.*
+*.local
+.DS_Store
+Thumbs.db
+*.log
+
+# Local config / secrets (should live outside the skill, but be safe)
+config.json
+*.token

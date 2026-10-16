@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+# local rebuilds of the Apple Vision helpers
+scripts/*.local
